@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9b975d6356f7e11428149ef54e0d3f91
+timeCreated: 1443112496
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Sfx_muncul: {fileID: 8300000, guid: 729338f07418700428ad3545dddebd73, type: 3}
+  - Sfx_Starting: {fileID: 8300000, guid: 97e9e47bd6ecf584087fc9429cebc73b, type: 3}
+  - Sfx_lose: {fileID: 8300000, guid: c2fa24c0870ccd74d9ac6a18ad6d4dcf, type: 3}
+  - Sfx_coin: {fileID: 8300000, guid: abcb8ed08fc265a46bdd3ae6911899d8, type: 3}
+  - Sfx_click: {fileID: 8300000, guid: 8588967772fac594eb158be7d648978e, type: 3}
+  - BgSoundMenu: {fileID: 8300000, guid: e629bca5eaef27942a73b9e770a17aab, type: 3}
+  - BgSoundGamePlay: {fileID: 8300000, guid: 53735b2972330ce45b3e894c4c7adceb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
